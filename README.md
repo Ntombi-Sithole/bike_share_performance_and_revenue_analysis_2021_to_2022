@@ -9,7 +9,7 @@
 ---
 
 ## Executive Dashboard Preview
-<img width="865" height="482" alt="Screenshot 2026-09-01 223920" src="https://github.com/user-attachments/assets/06ed9bee-6ce9-4c47-aba4-5b9f65a4b046" />
+<img width="854" height="475" alt="bike_share_dashboard" src="https://github.com/user-attachments/assets/7e0337be-e0f3-4cbf-9cd0-45e7811f3b36" />
 
 
 ---
