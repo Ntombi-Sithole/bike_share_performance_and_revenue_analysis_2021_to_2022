@@ -31,3 +31,19 @@
 * **Revenue Drivers:** Identified distinct peak hours during morning and evening commuting windows, indicating heavy reliance on working professionals.
 * **Seasonality Trends:** Discovered a steep drop-off in casual rider volume during winter months, suggesting a need for seasonal marketing campaigns or winter-specific subscription tiers.
 * **Pricing Elasticity:** Analyzed the correlation between rate increases and rider volume, revealing that a recent price hike successfully boosted profitability without triggering a significant decline in total ride segments.
+
+---
+## License
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+---
+## About Me
+
+Hi, I'm **Ntombikayise Sithole**
+I am an aspiring Data Engineer with a background in Business Management and Finance. I am passionate about building efficient systems and solving complex technical challenges. I focus on continuous learning and practical application, which drives me to build hands-on projects like this one to expand my technical skill set.
+
+---
+
+## Acknowledgements
+- This project was built as a hands-on practice initiative to sharpen my technical skills in Data Engineering.
+- Guided instructions and information regarding the project were provided by @absentdata step-by-step tutorial.
